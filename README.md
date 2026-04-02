@@ -27,9 +27,4 @@ A multi-agent AI research application built using OpenAI Agents SDK and Streamli
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+## Demo link
